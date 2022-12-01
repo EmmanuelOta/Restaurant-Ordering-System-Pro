@@ -1,4 +1,4 @@
-# Restaurant-Ordering-System-Pro
+Restaurant-Ordering-System-Pro
 
 ![Screenshot (147)](https://user-images.githubusercontent.com/65783304/205118335-2d854d70-3054-4ebd-9f91-c97401ceb393.png)
 ![Screenshot (148)](https://user-images.githubusercontent.com/65783304/205118362-b45a6fe3-f33d-451e-bd11-c0602192d6b0.png)
@@ -12,5 +12,5 @@
 ![Screenshot (156)](https://user-images.githubusercontent.com/65783304/205118534-8f885da8-6ef9-4728-869d-34ce8a9d42c2.png)
 ![Screenshot (157)](https://user-images.githubusercontent.com/65783304/205118587-fdd89fbe-56ee-4d4d-983b-e42256dd0d4c.png)
 
-This is an updated verison of the Restaurant-Ordering-System it includes more features that enabl the users to "order online", book a dine, home, delivery, self pickup, and it stores all this information on your hard drive so they can be easily accessed.
+This is an updated verison of the Restaurant-Ordering-System it includes more features that enable the users to "order online", book a dine, home-delivery, self pickup, and it stores all this information on your hard drive so they can be easily accessed.
 You can look at the pictures to have more insight on other amazing features this application contains.
